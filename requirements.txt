@@ -1,0 +1,12 @@
+ctransformers==0.2.5
+# ctransformer library to load quantised module
+# for lang chain we have to use ctransformer library
+sentence-transformers==2.2.2
+# for the embedding we need sentence transformer library
+pinecone-client
+# to detect pinecone Vector DB
+flask
+# embedding model all-MiniM-L6-v2(available on hugging face)
+pypdf
+python-dotenv
+-e .
