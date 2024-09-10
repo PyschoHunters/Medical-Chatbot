@@ -14,5 +14,11 @@ Pinecone: Manages a vector database to enhance response relevance and speed.
 LangChain: Integrates multiple AI models to streamline chatbot functionalities.
 PyPDF2: For handling PDF documents within the chat platform.
 
+Architecture
+
+![Medical Chatbot Arch](https://github.com/user-attachments/assets/fbdb37f9-a551-4f72-836f-406799c52605)
+
+
+
 Contact
 For any queries regarding the chatbot, feel free to reach out via email at: manumohan.ai21@gmail.com
